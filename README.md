@@ -10,6 +10,7 @@ My LeetCode solutions in Python
 | [0014-longest-common-prefix](https://github.com/Davydosik/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/Davydosik/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Davydosik/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/Davydosik/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +31,8 @@ My LeetCode solutions in Python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Davydosik/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/Davydosik/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
