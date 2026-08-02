@@ -8,6 +8,7 @@ My LeetCode solutions in Python
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Davydosik/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Davydosik/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Davydosik/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Davydosik/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Davydosik/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Davydosik/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
@@ -28,6 +29,7 @@ My LeetCode solutions in Python
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Davydosik/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Davydosik/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Davydosik/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Binary Search
