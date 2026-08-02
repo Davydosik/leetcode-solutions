@@ -11,6 +11,7 @@ My LeetCode solutions in Python
 | [0027-remove-element](https://github.com/Davydosik/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Davydosik/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Davydosik/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Davydosik/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@ My LeetCode solutions in Python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Davydosik/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Davydosik/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +37,8 @@ My LeetCode solutions in Python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Davydosik/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Davydosik/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
