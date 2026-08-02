@@ -14,6 +14,7 @@ My LeetCode solutions in Python
 | [0066-plus-one](https://github.com/Davydosik/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Davydosik/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Davydosik/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/Davydosik/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,8 @@ My LeetCode solutions in Python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Davydosik/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Davydosik/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
