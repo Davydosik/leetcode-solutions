@@ -9,6 +9,7 @@ My LeetCode solutions in Python
 | [0001-two-sum](https://github.com/Davydosik/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Davydosik/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/Davydosik/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/Davydosik/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,4 +26,8 @@ My LeetCode solutions in Python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Davydosik/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/Davydosik/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
